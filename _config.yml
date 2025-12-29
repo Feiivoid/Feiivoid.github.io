@@ -76,7 +76,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "我与我周旋久，宁作我。"
-sidebar-avatar: "https://avatars.githubusercontent.com/u/79455169?s=400&u=36d082189235c2598fb7e17740143c594e3d2a3b&v=4" # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "https://pbs.twimg.com/profile_images/1625763960296448003/DqM7IBo-_400x400.jpg" # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
